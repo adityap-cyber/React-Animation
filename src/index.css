@@ -10,3 +10,6 @@
     font-family: "font-2";
     src: url("/fonts/Lausanne-500.woff2");
 }
+body{
+   overflow-x: hidden;
+}
